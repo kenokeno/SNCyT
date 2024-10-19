@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ResidenEvil" size="500.000000 1264.743530" />
+    <ImageTarget name="Prototype" size="500.000000 496.611450" />
+    <ImageTarget name="Halo" size="500.000000 530.035339" />
+    <ImageTarget name="Ac2Art" size="500.000000 500.000000" />
+  </Tracking>
+</QCARConfig>

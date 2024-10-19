@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="3dMaxStudio" size="500.000000 490.897278" />
+    <ImageTarget name="Maya" size="500.000000 600.694458" />
+    <ImageTarget name="Unity3d" size="500.000000 480.000000" />
+    <ImageTarget name="Blender" size="500.000000 372.000000" />
+  </Tracking>
+</QCARConfig>

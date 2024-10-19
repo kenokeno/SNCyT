@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Super" size="500.000000 379.393951" />
+    <ImageTarget name="Iron" size="500.000000 641.558472" />
+    <ImageTarget name="Hulk" size="500.000000 697.368408" />
+    <ImageTarget name="Sponge" size="500.000000 462.057343" />
+  </Tracking>
+</QCARConfig>

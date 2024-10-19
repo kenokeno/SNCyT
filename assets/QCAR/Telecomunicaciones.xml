@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Telefono" size="500.000000 406.250000" />
+    <ImageTarget name="iPhone" size="500.000000 697.104675" />
+    <ImageTarget name="Antena" size="500.000000 500.000000" />
+    <ImageTarget name="Radio" size="500.000000 521.666687" />
+  </Tracking>
+</QCARConfig>
